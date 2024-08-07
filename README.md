@@ -1,1 +1,2 @@
-# Frequent-Itemset-Mining-w-Big-Data
+# E-commerce Sales Transaction Analysis and Frequent Itemset Mining with PySpark
+This Colab notebook provides an in-depth analysis of a UK-based e-commerce sales transaction dataset using both Pandas and PySpark. The analysis covers sales trends, popular products, customer behavior, and profitable customer segments. Additionally, the notebook utilizes the FP-Growth algorithm in PySpark to discover frequent itemsets within customer transactions, revealing potential product associations.
